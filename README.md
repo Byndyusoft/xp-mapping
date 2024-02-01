@@ -100,8 +100,8 @@
 ## Шаблон карты процесса-опыта <a id="templates"></a>
 
 - [Miro](https://miro.com/app/board/uXjVMwD2YBA=/?share_link_id=423535315008)
+- [Excalidraw:](https://excalidraw.com/) [файл библиотеки](templates/xpm-library.excalidrawlib), [пример](templates/xpm-example.excalidraw)
 - Figma
 - OmniGraffle
 - Sketch
 - Visio
-- Excalidraw
