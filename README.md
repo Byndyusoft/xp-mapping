@@ -12,8 +12,16 @@
 - [Типичные конфигурации](#configurations)
 - [Примеры карт](#examples)
 - [Шаблоны](#templates)
-
 <!-- - Книга «Карта процесса-опыта. Проектирование механизма услуги». Готовится к изданию... -->
+
+## Примеры карт процесса-опыта <a id="examples"></a>
+
+<a href='xpm-examples/02-xpm-example-printout.pdf'>![Услуга печати в копи-центре](illustrations/02-xpm-example-printout.jpg)</a>
+
+1. [Сервис покупки рекламы на цифровых экранах](xpm-examples/01-xpm-example-advert.pdf)
+2. [Услуга печати в копи-центре](xpm-examples/02-xpm-example-printout.pdf)
+3. [Опыт покупки автозапчастей](xpm-examples/03-xpm-example-spareparts.pdf)
+4. [Процесс составления карты процесса-опыта](xpm-examples/04-xpm-example-xpm-xpm.pdf)
 
 ## Назначение метода <a id="purpose"></a>
 
@@ -86,15 +94,6 @@
 \
 ![Схема конфигурации](illustrations/config_10.png)
 Выравнивание события с точкой
-
-## Примеры карт процесса-опыта <a id="examples"></a>
-
-<a href='xpm-examples/02-xpm-example-printout.pdf'>![Услуга печати в копи-центре](illustrations/02-xpm-example-printout.jpg)</a>
-
-1. [Сервис покупки рекламы на цифровых экранах](xpm-examples/01-xpm-example-advert.pdf)
-2. [Услуга печати в копи-центре](xpm-examples/02-xpm-example-printout.pdf)
-3. [Опыт покупки автозапчастей](xpm-examples/03-xpm-example-spareparts.pdf)
-4. [Процесс составления карты процесса-опыта](xpm-examples/04-xpm-example-xpm-xpm.pdf)
 
 ## Шаблон карты процесса-опыта <a id="templates"></a>
 
