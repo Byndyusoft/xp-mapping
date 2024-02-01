@@ -42,7 +42,7 @@
 
 ## Элементы карты <a id="elements"></a>
 
-[См. в статье](https://ashapiro.ru/articles/xpm)
+[См. в статье](https://ashapiro.ru/articles/xpm#elements)
 
 ## Обозначения <a id="notation"></a>
 
