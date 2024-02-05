@@ -101,7 +101,7 @@
 
 - [Miro](https://miro.com/app/board/uXjVMwD2YBA=/?share_link_id=423535315008)
 - [Excalidraw:](https://excalidraw.com/) [файл библиотеки](templates/xpm-library.excalidrawlib), [пример](templates/xpm-example.excalidraw)
-- Figma
-- OmniGraffle
+- [Figma](templates/xpm-template.fig), разработан [Константином Полуяновым](https://github.com/poluyanoff)
 - Sketch
+- OmniGraffle
 - Visio
