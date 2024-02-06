@@ -99,7 +99,7 @@
 
 ## Шаблон карты процесса-опыта <a id="templates"></a>
 
-- [Miro](https://miro.com/app/board/uXjVMwD2YBA=/?share_link_id=423535315008)
+- [Miro](https://miro.com/miroverse/experience-process-mapping-xpm-template/)
 - [Excalidraw:](https://excalidraw.com/) [файл библиотеки](templates/xpm-library.excalidrawlib), [пример](templates/xpm-example.excalidraw)
 - [Figma](templates/xpm-template.fig), разработан [Константином Полуяновым](https://github.com/poluyanoff)
 - Sketch
