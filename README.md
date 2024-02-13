@@ -11,7 +11,6 @@
 - [Назначение](#purpose)
 - [Элементы карты](#elements)
 - [Типичные конфигурации](#configurations)
-
 - [Шаблоны](#templates)
 - [Историческая справка](history.md)
 - [Глоссарий](glossary.md)
