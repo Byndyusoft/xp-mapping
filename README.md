@@ -114,7 +114,9 @@
 
 - [Miro](https://miro.com/miroverse/experience-process-mapping-xpm-template/)
 - [Excalidraw:](https://excalidraw.com/) [файл библиотеки](templates/xpm-library.excalidrawlib), [пример](templates/xpm-example.excalidraw)
-- [Figma](templates/xpm-template.fig), разработан [Константином Полуяновым](https://github.com/poluyanoff)
+- Figma
+  - [v.2.0 с автолэйаутом](templates/xpm-template.fig), доработан [Владимиром Аршуковым](https://github.com/Vladaaar)
+  - [v1.0](templates/xpm-template.fig), разработан [Константином Полуяновым](https://github.com/poluyanoff)
 - Sketch
 - OmniGraffle
 - Visio
