@@ -132,8 +132,8 @@
 - Figma
   - [v.2.0 с автолэйаутом](templates/xpm-template.fig), доработан [Владимиром Аршуковым](https://github.com/Vladaaar)
   - [v1.0](templates/xpm-template.fig), разработан [Константином Полуяновым](https://github.com/poluyanoff)
+- [OmniGraffle](templates/xpm-elements.gstencil)
 - Sketch
-- OmniGraffle
 - Visio
 
 ## [Историческая справка, место и назначение метода](history.md)
