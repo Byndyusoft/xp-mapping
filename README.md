@@ -127,7 +127,9 @@
 
 ## Шаблон карты процесса-опыта <a id="templates"></a>
 
-- [Miro](https://miro.com/miroverse/experience-process-mapping-xpm-template/)
+- Miro
+  - [Версия 2](https://miro.com/miroverse//xpm-experience-process-mapping/), с подписями на углу точки — легче верстать карту
+  - [Версия 1](https://miro.com/miroverse/experience-process-mapping-xpm-template/), с подписями в линию
 - [Excalidraw:](https://excalidraw.com/) [файл библиотеки](templates/xpm-library.excalidrawlib), [пример](templates/xpm-example.excalidraw)
 - Figma
   - [v.2.0 с автолэйаутом](templates/xpm-template.fig), доработан [Владимиром Аршуковым](https://github.com/Vladaaar)
