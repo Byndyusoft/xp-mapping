@@ -1,5 +1,6 @@
 # Шаблон карты процесса-опыта <a id="templates"></a>
 
+- [Holst.so](templates/xpm-template.holst)
 - [Miro](https://miro.com/miroverse//xpm-experience-process-mapping/)
 - [Excalidraw:](https://excalidraw.com/) [файл библиотеки](templates/xpm-library.excalidrawlib), [пример](templates/xpm-example.excalidraw)
 - Figma
