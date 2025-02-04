@@ -7,3 +7,4 @@
 3. [Опыт покупки автозапчастей](xpm-examples/03-xpm-example-spareparts.pdf)
 4. [Процесс составления карты процесса-опыта](xpm-examples/04-xpm-example-xpm-xpm.pdf)
 5. [Обобщенная услуга](xpm-examples/05-xpm-example-common-service.pdf)
+6. [Путь ассимиляции метода КПО](xpm-examples/06-xpm-assimilation-path.pdf)
