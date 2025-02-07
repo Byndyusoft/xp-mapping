@@ -9,3 +9,4 @@
 5. [Обобщенная услуга](xpm-examples/05-xpm-example-common-service.pdf)
 6. [Путь ассимиляции метода КПО](xpm-examples/06-xpm-example-assimilation-path.pdf)
 7. [Процессы ценообразования](xpm-examples/07-xpm-example-pricing.pdf)
+8. [Процесс деплоя пакетов, DevOps](xpm-examples/08-xpm-example-devops-package-deploy.pdf)
