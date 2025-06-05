@@ -1,4 +1,4 @@
-# Примеры карт процесса-опыта <a id="examples"></a>
+# Примеры карт процесса-опыта в ПДФ<a id="examples"></a>
 
 <a href='xpm-examples/02-xpm-example-printout.pdf'>![Услуга печати в копи-центре](illustrations/02-xpm-example-printout.jpg)</a>
 
